@@ -1,5 +1,5 @@
 
-# DailyTasks-With-Java
+# Java Task Manager
 
 ## Project Overview
 This repository contains a Java-based console application designed for practicing Data Structures and Algorithms (DSA) concepts. The project includes several classes that implement various tasks, manage them in queues, and run tests to validate functionality.
