@@ -13,8 +13,8 @@ This repository contains a Java-based console application designed for practicin
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/erfanrajati/DailyTasks-With-Java.git
-   cd DailyTasks-With-Java
+   git clone https://github.com/erfanrajati/java-task-manager.git
+   cd java-task-manager
    ```
 
 2. **Compile the Java Files**
